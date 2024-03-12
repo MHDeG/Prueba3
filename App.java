@@ -4,6 +4,7 @@ public class App {
         double variable2 = 2.03;
         System.out.println("Hello, World!");
         System.out.println(variable1);
+        
         System.out.println(variable2);
     }
 }
